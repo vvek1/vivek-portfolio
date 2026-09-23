@@ -268,7 +268,7 @@ function App() {
                   <div className="hero-bottom">
                     <span>
                       <MapPin size={14} />
-                      Indore, MP
+                      Bangalore, Karnataka
                     </span>
 
                     <span>•</span>
@@ -1027,7 +1027,7 @@ function App() {
                   <p className="education-line">
                     B.Tech CSE (AI/ML)
                     {' • '}
-                    Indore, MP
+                    Bangalore, Karnataka
                     {' • '}
                     Open to Opportunities
                   </p>
